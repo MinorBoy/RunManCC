@@ -5,6 +5,10 @@ cc.Class({
         king:{
             default:null,
             type:cc.Node,
+        },
+        voiceLose:{
+            default: null,
+            url: cc.AudioClip,
         }
     },
 
@@ -26,6 +30,8 @@ cc.Class({
         if (self.king.getComponent('King').state == 'down') {
             console.log('down*********************************');
         } else {
+            // cc.audioEngine.stopAll();
+            this.current = cc.audioEngine.play(self.voiceLose, false, 1);
             cc.director.loadScene('over');
         }
     },

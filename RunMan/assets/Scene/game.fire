@@ -469,6 +469,15 @@
     "_enabled": true,
     "king": {
       "__id__": 6
+    },
+    "voiceJump": {
+      "__uuid__": "ffd5c28b-0b9b-4092-9b24-34c5ce483086"
+    },
+    "voiceDown": {
+      "__uuid__": "f34c7999-687e-4239-a836-5be21c702fae"
+    },
+    "voiceLose": {
+      "__uuid__": "b26d60a2-080a-4b42-b9f2-5bf1141e94e4"
     }
   }
 ]
