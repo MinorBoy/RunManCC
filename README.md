@@ -1,2 +1,2 @@
 # RunManCC
-run man game by cocos creator
+cocos creator 小游戏系列@酷跑
