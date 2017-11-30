@@ -1,0 +1,52 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "boom_low",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2.8,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            533,
+            -86
+          ]
+        },
+        {
+          "frame": 2.8,
+          "value": [
+            -600,
+            -86
+          ]
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 1.6,
+      "func": "judgeJump",
+      "params": []
+    },
+    {
+      "frame": 1.7,
+      "func": "judgeJump",
+      "params": []
+    },
+    {
+      "frame": 1.8,
+      "func": "judgeJump",
+      "params": []
+    },
+    {
+      "frame": 1.9,
+      "func": "judgeJump",
+      "params": []
+    }
+  ]
+}

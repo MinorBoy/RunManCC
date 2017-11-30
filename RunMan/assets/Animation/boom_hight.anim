@@ -1,0 +1,47 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "boom_hight",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 3.375,
+  "sample": 8,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            507,
+            -20
+          ]
+        },
+        {
+          "frame": 3.375,
+          "value": [
+            -600,
+            -20
+          ]
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 1.875,
+      "func": "judgeDown",
+      "params": []
+    },
+    {
+      "frame": 2,
+      "func": "judgeDown",
+      "params": []
+    },
+    {
+      "frame": 2.125,
+      "func": "judgeDown",
+      "params": []
+    }
+  ]
+}
