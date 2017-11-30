@@ -1,2 +1,2 @@
 # RunManCC
-cocos creator 小游戏系列@酷跑
+酷跑@cocos creator 小游戏系列
