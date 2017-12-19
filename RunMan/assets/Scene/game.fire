@@ -476,8 +476,8 @@
     "voiceDown": {
       "__uuid__": "f34c7999-687e-4239-a836-5be21c702fae"
     },
-    "voiceLose": {
-      "__uuid__": "b26d60a2-080a-4b42-b9f2-5bf1141e94e4"
+    "musicGame": {
+      "__uuid__": "ce4cd2cc-280b-4a43-ba7b-5e2a1076ab1a"
     }
   }
 ]
